@@ -1,0 +1,8 @@
+.git
+.gitignore
+.gitattributes
+.dockerignore
+README.md
+[Bb]in
+[Dd]ebug
+[Oo]bj
