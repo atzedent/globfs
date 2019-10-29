@@ -39,7 +39,7 @@ docker run --rm -it -v /var/log/:/SEARCHDIR atzedent/globfs "/SEARCHDIR/**/*.log
 ## Find Us
 
 * [GitHub](https://github.com/atzedent/globfs)
-* [Dockerhub](https://hub.docker.com/atzedent/globfs)
+* [Dockerhub](https://hub.docker.com/r/atzedent/globfs)
 
 ## Contributing
 
